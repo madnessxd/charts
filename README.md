@@ -55,7 +55,7 @@ Below are the available advanced options and their usage:
 Layout options control the general appearance of the chart. Common options include; title, showlegend, xaxis, yaxis etc
 
     {
-        "title": "My Chart"
+        "title": "My Chart",
         "showlegend": true
     }
     
@@ -64,7 +64,7 @@ On the pie chart, the data options control the appearance of the pie circle beyo
 
     {
         "name": "May Pie',
-        "hole": 0.4
+        "hole": 0.4,
         "hoverinfo": "label+percent+name",
         "textinfo": "none"
     }
